@@ -1,3 +1,7 @@
 .navbar-brand {
     font-weight: bolder;
 }
+
+.navbar {
+    margin-left: 13px;
+}
