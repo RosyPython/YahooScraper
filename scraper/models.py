@@ -1,6 +1,9 @@
 from django.db import models
 import requests
+from django import template
 # Create your models here.
+
+register = template.Library()
 
 
 class Stock(models.Model):
